@@ -5,7 +5,5 @@ Tech Stack: JavaScript, HTML, CSS
 
 Features:
 🎯 Randomly appearing moles
-⏳ Countdown timer for a challenging experience
-⚡ Fast-paced gameplay with increasing difficulty
 📊 Score tracking to compete for the highest score
 🖱️ Click-based interaction for quick reflexes
