@@ -7,3 +7,4 @@ Features:
 🎯 Randomly appearing moles
 📊 Score tracking to compete for the highest score
 🖱️ Click-based interaction for quick reflexes
+ online demo:  https://ferdawsanzer.github.io/Whac-AmoleGame/
